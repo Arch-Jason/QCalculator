@@ -1,6 +1,11 @@
-<h1 align="center">QCalculator</h1>
+<p align="center">
+<img align="right" style="float: right; width: 16%; height: 16%" src="https://raw.githubusercontent.com/Arch-Jason/QCalculator/master/show.png" alt="show" />
 
-<h2 align="center">This is my first project written in C++ Qt.</h2>
+<h1>QCalculator</h1>
+
+<h2>This is my first project written in C++ Qt.</h2>
+
+</p>
 
 ## Build
 
